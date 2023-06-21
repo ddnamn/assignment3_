@@ -3,7 +3,7 @@ import Experience from './pages/Experience'
 import Home from './pages/Home'
 import About from './pages/About'
 import Skills from './pages/Skills'
-import Interest from './pages/interest'
+import Interests from './pages/Interests'
 import Awards from './pages/Awards'
 
 function App() {
@@ -18,7 +18,7 @@ function App() {
     <About/>
     <Experience/>
     <Skills/>
-    <Interest/>
+    <Interests/>
     <Awards/>
 
     </>

@@ -11,7 +11,7 @@ export default function Navbar() {
         <ul className=" w-full space-y-4 font-light text-3xl flex flex-col items-center" >
           <li className="hover:border-b-black hover:border-b-2 hover:box-content"><Link smooth to='#home'>home</Link></li>
           <li className="hover:border-b-black hover:border-b-2 hover:box-content"><Link smooth to='#about' >about</Link></li>
-          <li className="hover:border-b-black hover:border-b-2 hover:box-content"><Link smooth to='#experience'>expeience</Link></li>
+          <li className="hover:border-b-black hover:border-b-2 hover:box-content"><Link smooth to='#experience'>experience</Link></li>
           <li className="hover:border-b-black hover:border-b-2 hover:box-content"><Link smooth to='#skills'>skills</Link></li>
           <li className="hover:border-b-black hover:border-b-2 hover:box-content"><Link smooth to='#interests'>interests</Link></li>
           <li className="hover:border-b-black hover:border-b-2 hover:box-content"><Link smooth to='#awards'>awards</Link></li>
